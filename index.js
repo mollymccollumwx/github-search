@@ -13,7 +13,7 @@ const getRepos = async () => {
   const url = "https://api.github.com/users/" + usernameInput + "/repos";
 
   const response = await fetch(url);
-
+  // handles errors
   if (response.status >= 200 && response.status <= 299) {
     var result = await response.json();
     // executes for each element in the array and appends it to the page
