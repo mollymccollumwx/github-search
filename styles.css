@@ -1,4 +1,22 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
 img {
     width: 32px;
     height: 32px;
 }
+
+.fab {
+    color: #007bff;
+}
+#title {
+    font-size: 60px;
+    font-weight: bolder;
+}
+#error-message {
+    color: red;
+}
+
