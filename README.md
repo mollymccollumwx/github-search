@@ -1,7 +1,7 @@
 # Github Search 
 
 ## Description
-This application contains a simple Github search built using vanilla JS. The user is able to search all repositories by a specific user, or search all the commits/pull requests of a specific repository. 
+This application contains a simple Github search built using vanilla JS and the Github API. The user is able to search all repositories by a specific user, or search all the commits/pull requests of a specific repository. 
 
 Please visit the [deployed site](https://xenodochial-hodgkin-e2e142.netlify.app/) to try out Github Search.
 
